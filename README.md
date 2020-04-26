@@ -1,4 +1,4 @@
-# Table of Contents
+# webpack学习目录
 
 * [构建工具](#构建工具)
    * [为什么需要构建工具？](#为什么需要构建工具)
@@ -727,15 +727,3 @@ new webpack.DllReferencePlugin({
 - 优化 resolve.mainFields 配置
 - 优化 resolve.extensions 配置
 - 合理使用 alias
-
-## 深入 webpack
-
-### webpack 启动过程分析
-
-### webpack-cli 源码阅读
-
-## 实战
-
-### 商城技术栈选型和整体架构
-
-### 商城界面 UI 设计与模块拆分
