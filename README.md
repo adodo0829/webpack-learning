@@ -73,18 +73,6 @@
 - 压缩混淆
 - 图片压缩
 
-### 前端构建工具的演变历史
-
-主流的有：
-
-ant+YUI Tool——>grunt——> fis3/gulp——>rollup/webpack/parcel
-
-### 为什么选择 webpack ?
-
-- 社区生态丰富
-- 配置灵活和插件化扩展
-- 官方更新迭代速度快
-
 ## 初识 webpack
 
 ### 配置文件
